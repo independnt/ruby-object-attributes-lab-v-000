@@ -8,5 +8,4 @@ class Dog
     @this_dog = dogs_name
   end
 
-
 end
